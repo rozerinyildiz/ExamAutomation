@@ -1,0 +1,11 @@
+1,Broad River University Department of Applied Physics and Applied Mathematics,100,20 
+2,Meadows University Department of Art History and Archaeology,220,10
+3,Eagle Mountain University Department of Computer Engineering,450,5
+4,Cypress University Department of Art History and Archaeology,180,12
+5,Martin Luther King University Department of Computer Engineering,400,20
+6,Great Oak University Department of Computer Engineering,270,30
+7,Sunset University Department of Art History and Archaeology,110,5
+8,Sun Valley University Department of Computer Engineering,420,3
+9,Laguna Creek University Department of Art History and Archaeology,275,6
+10,South Fork University Department of Marketing,345,7
+11,Sunset University Department of Applied Physics and Applied Mathematics,300,7
